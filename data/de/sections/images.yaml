@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Bilder
+  id: achievements
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Titel
+  image: /images/studio/example1.jpg
+  summary: Beschreibung
+- title: Titel
+  image: /images/studio/example2.jpg
+  summary: Beschreibung
+- title: Titel
+  image: /images/studio/example3.jpg
+  summary: Beschreibung
+- title: Titel
+  image: /images/studio/example4.jpg
+  summary: Beschreibung

@@ -1,0 +1,62 @@
+# section information
+section:
+  name: Unser Angebot
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Physio-Fitness für Ü-50
+  logo: "/images/sections/skills/kubernetes.png"
+  summary: "Physio-Fitness Gymnastik für über Fünzigjährige"
+  url: ""
+
+- name: Massagen
+  logo: "/images/sections/skills/go.png"
+  summary: "Heilmassage<br>
+Bindegewebsmassage<br>
+Fußreflexzonenmassage"
+  url: ""
+
+- name: Wärmetherapie
+  logo: "/images/sections/skills/cloud.png"
+  summary: "Infrarotbestrahlung<br>
+Kurzwellenbestrahlung<br>
+Ultraschall"
+
+- name: Elektrotherapie
+  logo: "/images/sections/skills/docker.svg"
+  summary: "Galvanischer Strom<br>
+Jontophorese<br>
+Diadynamischer Strom<br>
+Interferenzstrom<br>
+T.E.N.S. Strom<br>
+Reizstrom"
+  url: ""
+
+- name: Physiokinetotherapie
+  logo: "/images/sections/skills/prometheus.png"
+  summary: "Rehabilitationsgymnastik
+Rehabilitationsgymnastik nach Sportverletzungen
+Haltungsturnen"
+  url: ""
+
+- name: Traktionen
+  logo: "/images/sections/skills/linux.png"
+  summary: "Zervikal-lumbale Traktion"
+
+- name: Manualtherapie
+  logo: "/images/sections/skills/git.png"
+  summary: "Mobilisierung der Wirbelsäule,
+der oberen und unteren Extremitäten"
+
+
+- name: Bandscheiben Behandlung
+  logo: "/images/sections/skills/c++.png"
+  summary: "Robin McKenzie Methode"
+  url: "https://de.mckenzieinstitute.org/f%C3%BCr-patienten/was-ist-die-mckenzie-methode/"
